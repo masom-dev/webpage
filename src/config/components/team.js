@@ -296,6 +296,21 @@ const team = {
         linkedin: 'https://www.linkedin.com/in/lakshmikc/',
       },
     },
+    // Masoome Rezaei
+    {
+      // Name: First and last name
+      name: 'Masoome Rezaei',
+      // Namelink: Member's Personal Website
+      nameLink: 'https://www.linkedin.com/in/masoome-rezaei/',
+      // Job Title
+      title: 'Member, Web Page',
+      // Leadership team member Photo
+      avatar: '/team/Masoome.jpg',
+      // Social links
+      social: {
+        linkedin: 'https://www.linkedin.com/in/masoome-rezaei/',
+      },
+    },
   ],
 };
 
