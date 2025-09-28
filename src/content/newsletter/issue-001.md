@@ -69,7 +69,20 @@ The Career Sponsorship committee empowers women in bioinformatics to grow into l
 #### Web Page
 
 The Web Page committee manages the organization's website to share group information, curate community resources, and promote events.
+#### Contact Us
+communications@boston-wib.org
+bostonwomeninbioinformatics@gmail.com
 
 ## Upcoming event(s)
 
 Upcoming Networking Events
+
+## Spotlight on Team Members
+
+![Team Member](/team/team.png)
+
+## Social Media 
+- **Slack:** [Join our Slack](https://boston-women-bioinfo.slack.com)  
+- **Email:** [Bostonwomeninbioinformatics@gmail.com](mailto:Bostonwomeninbioinformatics@gmail.com)  
+- **LinkedIn:** [Boston-area Women in Bioinformatics](https://www.linkedin.com)  
+- **Location:** Boston Area, Massachusetts
